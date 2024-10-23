@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('grizz-head.svg');
+    background: url('grizz-head.png');
 	background-position: center;
 	background-repeat: no-repeat;
 	  font-family: "Graduate", serif;
