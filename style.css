@@ -3,12 +3,14 @@ body {
 
 }
 
+
 .graduate-regular {
   font-family: "Graduate", serif;
   font-weight: 400;
   font-style: normal;
 }
 
+/*
 #logo {
 	height: 700px;
 	display: flex;
@@ -23,4 +25,15 @@ body {
 	color: #fff;
 	font-size: 600%;
 	font-weight: bold;
+}
+*/
+
+.container {
+	height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('grizz-head.svg');
+	background-position: center;
+	background-repeat: no-repeat;
 }
