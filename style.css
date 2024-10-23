@@ -36,4 +36,7 @@ body {
     background: url('grizz-head.svg');
 	background-position: center;
 	background-repeat: no-repeat;
+	  font-family: "Graduate", serif;
+  font-weight: 400;
+  font-style: normal;
 }
